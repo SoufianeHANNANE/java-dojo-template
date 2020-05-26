@@ -1,4 +1,6 @@
-import fr.wildcoeschool.binary.SomeClass;
+package com.wildcodeschool.dojo;
+
+import com.wildcodeschool.dojo.SomeClass;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

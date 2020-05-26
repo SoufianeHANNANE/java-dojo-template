@@ -1,4 +1,4 @@
-package fr.wildcoeschool.binary;
+package com.wildcodeschool.dojo;
 
 public class SomeClass {
 
